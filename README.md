@@ -10,7 +10,7 @@
 * Импликация =>
 * Эквивалентность <=>
   
-Проект написан на языке C++ с использованием Qt 5. Скомпилирован в Visual Studio 2013. Platform Toolset v110 (Visual Studio 2012). Qt5.1.1.
+Проект написан на языке C++ с использованием Qt 5. Скомпилирован в Visual Studio 2013. Platform Toolset v120. Qt5.5.0.
 
 ![Main Screen](/img/main-screen-clear.PNG)  
 ![Result Screen](/img/complicated-expression-result.PNG)  
